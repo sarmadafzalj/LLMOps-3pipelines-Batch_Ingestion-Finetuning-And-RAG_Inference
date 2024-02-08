@@ -20,6 +20,7 @@ Automated pipelines for feature store, inference and finetuning for making your 
 <p align=center>
 <img src="Images\3pipelines.png" alt="Your Image">
 </p>
+
 ## Tech-Stack
 <table>
     <tr>
