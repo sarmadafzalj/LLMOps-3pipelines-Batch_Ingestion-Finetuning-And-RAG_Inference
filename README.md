@@ -20,7 +20,7 @@ Automated pipelines for feature store, inference and finetuning for making your 
 <table>
     <tr>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\llamaindex.jpg" alt="Your Image">
         </td>
         <td>
             <img src="Images\trainingrobot.jpeg" alt="Your Image">
