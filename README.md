@@ -44,38 +44,38 @@ Automated pipelines for feature store, inference and finetuning for making your 
             <img src="Images\trainingrobot.jpeg" alt="Your Image">
         </td>
     </tr>
-    <tr>
+    <tr valign=top>
         <td>
             <p><b>Llama-Index</b></p>
             <p>Framework for ingestion and RAG orchestration</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>Vectara</b></p>
+            <p>Vector database for storing and querying embeddings</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>Beam</b></p>
+            <p>Infrastructure with GPUs and storage volume</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>Llama2</b></p>
+            <p>LLM for RAG and finetuning</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>Streamlit</b></p>
+            <p>Chatbot user interface</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>Quantexa</b></p>
+            <p>Data source for tech news articles</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>OpenAI</b></p>
+            <p>GPT-4 for creating Q/A dataset for finetuning</p>
         </td>
         <td>
-            <p><b>Llama-Index</b></p>
-            <p>Framework for ingestion and RAG orchestration</p>
+            <p><b>Hugging Face</b></p>
+            <p>For downloading Llama2 model weights</p>
         </td>
     </tr>
 </table>
