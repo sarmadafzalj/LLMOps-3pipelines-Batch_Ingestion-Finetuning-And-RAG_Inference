@@ -1,0 +1,10 @@
+# Ignore virtual environments
+FeaturePipeline/.venv/
+FeaturePipeline/.env
+FinetuningPipeline/.env
+InferencePipeline/.env
+InferencePipeline/venv/
+
+# Ignore the "ignores" directory
+ignores/
+__pycache__/
