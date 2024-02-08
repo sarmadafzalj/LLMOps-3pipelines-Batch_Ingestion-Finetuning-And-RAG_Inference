@@ -23,25 +23,25 @@ Automated pipelines for feature store, inference and finetuning for making your 
             <img src="Images\llamaindex.jpg" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\vectara_wordmark.png" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\meta-hero.jpg" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\Untitled_design_(1).jpg" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\streamlit.png" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\quantexa.png" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\openai.png" alt="Your Image">
         </td>
         <td>
-            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+            <img src="Images\hf-logo.png" alt="Your Image">
         </td>
     </tr>
     <tr valign=top>
