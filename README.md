@@ -25,5 +25,56 @@ Automated pipelines for feature store, inference and finetuning for making your 
         <td>
             <img src="Images\trainingrobot.jpeg" alt="Your Image">
         </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <p><b>Llama-Index</b></p>
+            <p>Framework for ingestion and RAG orchestration</p>
+        </td>
+        <td>
+            <img src="Images\trainingrobot.jpeg" alt="Your Image">
+        </td>
     </tr>
 </table>
