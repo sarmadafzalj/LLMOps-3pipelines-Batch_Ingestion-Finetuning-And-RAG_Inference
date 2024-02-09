@@ -102,9 +102,12 @@ VECTARA_API_KEY=
 Beam_key=
 
 HF_key
-'''
+```
 
 Deploy each app one by one on Beam on WSL. You need beam account first and here are detail intsallation guaidance:  https://docs.beam.cloud/getting-started/installation
 - Feature pipeline: beam deploy app.py:FeaturePipeline
 - Inference pipeline: here we have to deploy LLM as rest api - cd inside the llama2 folder and run beam deploy app.py:generate
 - Training pipeline: beam deploy app.py:train_model
+
+Then inside the inference pipeline you can start the chatbot UI by: streamlit run app.py
+
