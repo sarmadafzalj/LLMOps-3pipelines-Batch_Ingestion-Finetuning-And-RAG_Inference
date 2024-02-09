@@ -22,6 +22,7 @@ Automated pipelines for feature store, inference and finetuning for making your 
 </p>
 
 ## Tech-Stack
+
 <table>
     <tr>
         <td>
@@ -45,7 +46,6 @@ Automated pipelines for feature store, inference and finetuning for making your 
         <td>
             <img src="Images\openai.png" alt="Your Image">
         </td>
-
     </tr>
     <tr valign=top>
         <td>
@@ -76,7 +76,6 @@ Automated pipelines for feature store, inference and finetuning for making your 
             <p><b>OpenAI</b></p>
             <p>GPT-4 for creating Q/A dataset for finetuning</p>
         </td>
-
     </tr>
 </table>
 
