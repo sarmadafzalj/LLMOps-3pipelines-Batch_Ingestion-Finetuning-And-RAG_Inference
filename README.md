@@ -83,8 +83,7 @@ Automated pipelines for feature store, inference and finetuning for making your 
 
 There are total 3 apps in this project which will be deployed on Beam.
 - **Feature app**: It will run as scheduler everyday 9AM. It contains ETL to grab news articles from Aylien API the using Vectara it chunks, embeds, and loads in the vectorstore. Second part of this is to use a GPT-4 to generate 5 questions and answer pair from each article and save it onto Beam storage volume as a csv file.
-- **Inference app**: It is deployed as a restful API which takes user query as input then using vectara embeds it and searches relavant chunks with cosine similarity. Llama2 7B is hosted for inference which is then called to synthesize the final response.
-    - Second part to this app is a streamlit chatbot UI which is not hosted on Beam but ran locally. This basically calls the inference rest api.  
+- **Inference app**: On a streamlit chat UI, user can ask questions which goes as an input input for Vectara to embed and search relevant chunks from all the news articles by cosine similarity. Llama2 7B is hosted for inference on Beam as a restful API which is then called to synthesize the final response.
 - **Training app**: This is again deployed as a scheduler to be ran monthly. It uses PEFT LoRA and huggingface transformer library for finetuning, parameters and prompter is same as used for Alpaca.
 
 To setup you need to get following Tokens and API keys and create a .env file as below and save for all the pipelines
