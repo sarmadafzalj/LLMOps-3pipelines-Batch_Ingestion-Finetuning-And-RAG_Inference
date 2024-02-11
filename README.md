@@ -109,6 +109,8 @@ Deploy each app one by one on Beam on WSL. You need beam account first and here 
 
 Then inside the inference pipeline you can start the chatbot UI by: streamlit run app.py
 
+Medum article: https://medium.com/@sarmadafzalj/rag-v-fine-tuning-why-not-harness-the-power-of-both-91c49a4744da
+
 ## Reach out to me
 - <i>Author: <b>Sarmad Afzal</b></i>
 - <i>Linkedin: https://www.linkedin.com/in/sarmadafzal/</i>
